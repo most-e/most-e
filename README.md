@@ -1,4 +1,4 @@
-<h1>Hi, I'm Evan! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I'm Evan! Passionate Cybersecurity Professional</h1>
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Cybersecurity projects</b>
