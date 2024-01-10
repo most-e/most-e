@@ -4,7 +4,7 @@
 - <b>Cybersecurity projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/most-e/Azure-SOC)
   - [Custom SOC Homelab using LimaCharlie](https://github.com/most-e/CustomSOC)
-
+  - [Senior Capstone Project](https://github.com/most-e/Capstone)
 
 <h2> 🤳 Connect with me:</h2>
 
