@@ -2,11 +2,16 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Cybersecurity projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/most-e/Azure-SOC)
-  - [OpenVAS Vulnerability Management Lab](https://github.com/most-e/OpenVAS-vulmnglab)
-  - [Splunking into Intrusion Detection](https://github.com/most-e/Splunking-Into-Intrusion-Detection)
-  - [Custom SOC Homelab using LimaCharlie](https://github.com/most-e/CustomSOC)
-  - [Senior Capstone Project](https://github.com/most-e/Capstone)
+Creating a Live SOC / Honeynet in Azure
+  - [Azure SOC](https://github.com/most-e/Azure-SOC)
+Splunking into Intrusion Detection
+  - [Splunk Lab](https://github.com/most-e/Splunking-Into-Intrusion-Detection)
+OpenVAS Vulnerability Management Lab
+  - [OpenVAS Lab](https://github.com/most-e/OpenVAS-vulmnglab)
+Custom SOC Homelab using LimaCharlie
+  - [LimaCharlieEDR Lab](https://github.com/most-e/CustomSOC)
+Senior Capstone Project
+  - [MOVEit File Transfer Software Breach Assessment](https://github.com/most-e/Capstone)
 
 <h2> 🤳 Connect with me:</h2>
 
